@@ -1,0 +1,22 @@
+{
+	"KPackageStructure": "Plasma/Applet",
+	"KPlugin": {
+		"Api": "declarativeappletscript/1.0",
+		"Authors": [
+			{
+				"Email": "denis.topallaj13@gmail.com",
+				"Name": "Denis Topallaj"
+			}
+		],
+		"Category": "Utilities",
+		"Description": "Display live file contents on your desktop with automatic updates",
+		"Icon": "document-preview",
+		"Id": "com.github.detopall.livefileviewer-plasma",
+		"License": "GPL-2.0+",
+		"Name": "Live File Viewer",
+		"Version": "1.0",
+		"Website": "https://github.com/Detopall/livefileviewer-plasma"
+	},
+	"X-Plasma-API-Minimum-Version": "6.0"
+}
+
