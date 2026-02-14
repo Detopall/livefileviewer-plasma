@@ -12,11 +12,10 @@
 		"Description": "Display live file contents on your desktop with automatic updates",
 		"Icon": "document-preview",
 		"Id": "com.github.detopall.livefileviewer-plasma",
-		"License": "GPL-2.0+",
+		"License": "MIT",
 		"Name": "Live File Viewer",
 		"Version": "1.0",
 		"Website": "https://github.com/Detopall/livefileviewer-plasma"
 	},
 	"X-Plasma-API-Minimum-Version": "6.0"
 }
-

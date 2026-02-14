@@ -88,13 +88,9 @@ Right-click the widget and select "Configure Live File Viewer..." to set:
 ## Uninstallation
 
 ```bash
-# Using the script
-./uninstall.sh
-
-# Or manually
 kpackagetool6 --type Plasma/Applet --remove org.kde.plasma.livefileviewer
 ```
 
 ## License
 
-GPL-2.0+
+MIT
