@@ -3,10 +3,9 @@
 A KDE Plasma 6 widget that displays file contents in real-time on your desktop. Uses inotify for instant updates when files change.
 
 <p align="center">
-  <img src="./assets/edit.png" alt="Edit" width="80" />
-  <img src="./assets/file-location.png" alt="File location" width="80" />
-  <img src="./assets/modified.png" alt="Modified" width="80" />
-  <img src="./assets/about.png" alt="About" width="80" />
+  <img src="./assets/edit.png" alt="Edit" width="250" />
+  <img src="./assets/file-location.png" alt="File location" width="250" />
+  <img src="./assets/modified.png" alt="Modified" width="250" />
 </p>
 
 ## Requirements
